@@ -31,7 +31,7 @@ This text should be formatted as follows:
 - `Bold` is bold
 - `dim` is either a lighter color, or thinner weight than normal
 - `italic` is italic 
-- `green dunderlines too` is green text with double underline.
+- `green dunderlines too` should have a double underline that is green in color
 - There should be either a paragraph break (preferred), or a double line break, between `green dunderlines too!` and `Please don't delete`
 - The last paragraph should be in a serif font.
 - `delete` should be crossed out.
@@ -40,7 +40,7 @@ This text should be formatted as follows:
 
 ### What is tested
 
-The test tests for underlines, double underlines, monospace, paragraph breaking, proportional fonts, 2-bit color support, boldness, dimness, italics, strikethrough, serif fonts, strikethrough, superscripts, and supscripts.
+The test tests for underlines, double underlines, monospace, paragraph breaking, proportional fonts, text color support, boldness, dimness, italics, strikethrough, serif fonts, strikethrough, superscripts, and supscripts, colored underlines, and background text color support.
 
 ## Files
 
