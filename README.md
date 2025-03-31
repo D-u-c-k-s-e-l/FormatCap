@@ -26,12 +26,12 @@ This text should be formatted as follows:
 - The description line shoud be made underlined and monospaced
 - There should be either a paragraph break (preferred), or a double line break, between the description line and `Roses are red.`
 - The middle paragraph should use a proportional (non-monospace) font.
-- `red` is red
-- `blue` is blue
+- `red` is plain text on a red background
+- `blue` is blue text
 - `Bold` is bold
 - `dim` is either a lighter color, or thinner weight than normal
 - `italic` is italic 
-- `green dunderlines too` should be green with double underline.
+- `green dunderlines too` is green text with double underline.
 - There should be either a paragraph break (preferred), or a double line break, between `green dunderlines too!` and `Please don't delete`
 - The last paragraph should be in a serif font.
 - `delete` should be crossed out.
